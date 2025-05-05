@@ -12,7 +12,7 @@ To analyze historical Airbnb data and build a recommendation engine that suggest
 - **Pandas, NumPy, Scikit-learn, SHAP**: Core data science libraries
 - **Matplotlib, Seaborn**: Visualization for exploratory data analysis
 - **Tableau**: Interactive dashboard for price exploration
-- **Excel**: Preliminary data cleaning and inspection
+- **Excel**: Preliminary data cleaning and inspection .
 
 ## 🧠 Key Features
 - Dynamic pricing recommendation function
